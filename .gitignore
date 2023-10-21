@@ -1,2 +1,4 @@
 #Ignorar los archivos env
 .env
+
+git rm --cached .env
